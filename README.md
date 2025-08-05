@@ -1,4 +1,5 @@
-<img src="media/image1.jpg" style="width:3.69444in;height:1.25625in"
+<img src="media/media/image1.jpg"
+style="width:3.69444in;height:1.25625in"
 alt="6c871a7c695c7157-OR800.jpg" />
 
 > Dipartimento di Ingegneria dell’Innovazione
@@ -126,7 +127,7 @@ ogni processore avrà assegnate $`2^{k - n1} \times 2^{k - n2}`$
 ($`k\  \geq \ n1\ ,\ k\  \geq \ n2`$) sottomatrici di A, B, e C.
 
 <figure>
-<img src="media/image2.png" style="width:3.737in;height:2.35912in"
+<img src="media/media/image2.png" style="width:3.737in;height:2.35912in"
 alt="A grid with red lines Description automatically generated" />
 <figcaption><p>Figure 1</p></figcaption>
 </figure>
@@ -206,7 +207,8 @@ $`\frac{N\ l}{\sqrt{P}} \leq i \leq \frac{N\ (l + 1)}{\sqrt{P}},\ \frac{N\ n}{\s
 La situazione diventa allora quella in figura 2.
 
 <figure>
-<img src="media/image3.png" style="width:2.21524in;height:2.18218in"
+<img src="media/media/image3.png"
+style="width:2.21524in;height:2.18218in"
 alt="A grid of red squares Description automatically generated" />
 <figcaption><p>Figure 2</p></figcaption>
 </figure>
@@ -222,7 +224,8 @@ Come accennato precedentemente, è necessaria una fase di setup che porti
 i processori nella situazione in figura 3.
 
 <figure>
-<img src="media/image4.png" style="width:6.26806in;height:1.95069in"
+<img src="media/media/image4.png"
+style="width:6.26806in;height:1.95069in"
 alt="A grid of squares with arrows Description automatically generated" />
 <figcaption><p>Figure 3</p></figcaption>
 </figure>
@@ -255,7 +258,8 @@ mentre quelle di B sono
 $`\frac{M}{\sqrt{P}} \times \frac{N}{\sqrt{P}}\ `$.
 
 <figure>
-<img src="media/image5.png" style="width:5.51915in;height:2.41899in"
+<img src="media/media/image5.png"
+style="width:5.51915in;height:2.41899in"
 alt="A diagram of a guitar chord Description automatically generated" />
 <figcaption><p>Figure 4</p></figcaption>
 </figure>
@@ -278,7 +282,8 @@ dimensione $`N \times \frac{N}{\sqrt[3]{P}}`$, mentre ogni parte
 $`B(i)`$ ha dimensione $`\frac{N}{\sqrt[3]{P}} \times N`$.
 
 <figure>
-<img src="media/image6.png" style="width:6.26806in;height:2.06042in"
+<img src="media/media/image6.png"
+style="width:6.26806in;height:2.06042in"
 alt="A white rectangular object with black text Description automatically generated" />
 <figcaption><p>Figure 5</p></figcaption>
 </figure>
@@ -380,7 +385,8 @@ i processori, e non come sono suddivise le sottomatrici che sono in
 realtà rettangolari, come mostrato alla fine della sezione 1.2 .
 
 <figure>
-<img src="media/image7.png" style="width:1.54476in;height:1.43522in"
+<img src="media/media/image7.png"
+style="width:1.54476in;height:1.43522in"
 alt="A grid of squares with red and blue circles Description automatically generated" />
 <figcaption><p>Figure 6</p></figcaption>
 </figure>
@@ -507,7 +513,8 @@ processori, seguono allora le metriche:
 | $`\sim`$*4096x4096* |        *1.4*         |       *1.91*       |
 | $`\sim`$*6000x6000* |        *1.07*        |       *1.18*       |
 
-<img src="media/image8.png" style="width:4.03763in;height:2.51088in"
+<img src="media/media/image8.png"
+style="width:4.03763in;height:2.51088in"
 alt="A graph with a line graph and numbers Description automatically generated" />
 
 # 4 Conclusioni
